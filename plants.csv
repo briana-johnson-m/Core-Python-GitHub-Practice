@@ -1,0 +1,26 @@
+plant,height_cm,city,watered,date,light_need,room
+pothos,95,Austin,True,2025-07-01,Low,Living
+peace lily,58,Austin,False,2025-07-03,Low,Bedroom
+jade plant,82,Dallas,True,2025-07-05,Medium,Office
+barrel cactus,62,Dallas,False,2025-07-06,High,Kitchen
+ZZ plant,89,San Antonio,True,2025-07-08,Low,Hall
+snake plant,77,San Antonio,False,2025-07-10,Low,Bedroom
+rubber plant,120,Houston,True,2025-07-12,Medium,Living
+fiddle leaf fig,205,Houston,True,2025-07-14,High,Living
+pony tail palm,138,Houston,False,2025-07-15,High,Office
+schefflera,110,Austin,True,2025-07-16,Medium,Living
+monstera,150,Austin,False,2025-07-18,Medium,Living
+philodendron,92,Dallas,True,2025-07-19,Low,Bedroom
+english ivy,55,Dallas,False,2025-07-20,Low,Kitchen
+aloe vera,48,San Antonio,True,2025-07-21,High,Kitchen
+dracaena,130,San Antonio,True,2025-07-22,Medium,Hall
+bamboo palm,142,Houston,False,2025-07-23,Medium,Office
+croton,60,Austin,True,2025-07-24,High,Living
+calathea,65,Dallas,False,2025-07-25,Low,Bedroom
+aglaonema,70,Houston,True,2025-07-26,Low,Office
+string of pearls,40,Austin,True,2025-07-27,High,Kitchen
+haworthia,25,Dallas,False,2025-07-28,High,Office
+pothos,,Austin,True,2025-07-29,Low,Hall
+ZZ plant,88,Austin,False,2025-07-30,,Bedroom
+rubber plant,118,Dallas,True,2025-07-31,Medium,Office
+peace lily,59,Houston,False,2025-08-01,Low,Living
