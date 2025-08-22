@@ -1,11 +1,6 @@
-,plant,height_cm,city,watered,date,light_need,room
-4,ZZ plant,89.0,San Antonio,True,2025-07-08,Low,Hall
-22,ZZ plant,88.0,Austin,False,2025-07-30,,Bedroom
-2,jade plant,82.0,Dallas,True,2025-07-05,Medium,Office
-5,snake plant,77.0,San Antonio,False,2025-07-10,Low,Bedroom
-18,aglaonema,70.0,Houston,True,2025-07-26,Low,Office
-17,calathea,65.0,Dallas,False,2025-07-25,Low,Bedroom
-3,barrel cactus,62.0,Dallas,False,2025-07-06,High,Kitchen
-16,croton,60.0,Austin,True,2025-07-24,High,Living
-24,peace lily,59.0,Houston,False,2025-08-01,Low,Living
-1,peace lily,58.0,Austin,False,2025-07-03,Low,Bedroom
+,plant,height_cm
+10,monstera,150.0
+15,bamboo palm,142.0
+0,pothos,95.0
+5,snake plant,77.0
+20,haworthia,25.0
